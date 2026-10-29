@@ -1,0 +1,21 @@
+id: openn-lewis-e-m
+title: Lewis E M cuttings, Free Library of Philadelphia
+summary: Decorated, inhabited and historiated initials, border fragments and miniatures from fourteen medieval cuttings of the John Frederick Lewis Collection (Lewis E M) at the Free Library of Philadelphia, digitised by OPenn; 14th to 17th century, Germany, France, Italy and Portugal; grouped by cutting.
+kind: historical
+author: adrian729
+maintainer: https://github.com/adrian729/ducktape-assets/issues
+license:
+  artwork: LicenseRef-PDM
+  notes: The Free Library places the images in the public domain (Public Domain Mark 1.0); see SOURCES.md.
+period: "14th to 17th century"
+region: Germany, France, Italy and Portugal
+style: Gothic and Renaissance illumination, cuttings
+origin:
+  institution: Free Library of Philadelphia, John Frederick Lewis Collection
+  object_identifier: Lewis E M
+  record_url: https://openn.library.upenn.edu/Data/0023/html/
+tags:
+  - cuttings
+  - initial
+  - miniature
+  - border

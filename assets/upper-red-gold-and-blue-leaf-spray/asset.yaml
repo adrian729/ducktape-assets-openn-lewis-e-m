@@ -1,0 +1,52 @@
+# descriptive: find it and understand it
+id: upper-red-gold-and-blue-leaf-spray
+title: Red, blue and gold leaf spray with curled tip
+description: A spray fanning out from a cut stem at the right; a long red-brown leaf with white vein lines reaches left, a gold acanthus lobe hangs below it, and a blue leaf curls over at the top around a pink inner lobe with white sprig marks. Cut from the decorated initial; the background is transparent.
+type: ornament
+categories:
+  - floral
+  - scrollwork
+subjects:
+  - acanthus
+  - leaf
+  - flourish
+colors:
+  - red
+  - blue
+  - gold
+  - pink
+  - white
+facing: none
+composition: single-ornament
+
+# structural: how it is organised and related
+group: 023-019
+render:
+  image: {}
+related:
+  - asset: openn-lewis-e-m/lower-red-gold-and-blue-leaf-spray
+    role: companion
+usage_notes:
+  - The upper of the two leaf sprays that sprang from the letter; set its cut stem end at the right against a rule or letter.
+display_width:
+  - 300
+  - 800
+
+# administrative: manage, access, preserve
+status: approved
+review: done
+created: 2026-10-28
+quality: Cut straight at the right where the spray met the letter.
+master: master.png
+provenance:
+  method: ai-assisted-extraction
+  institution: Free Library of Philadelphia, John Frederick Lewis Collection
+  object_title: Decorated initial D
+  object_identifier: Lewis E M 23:19
+  date: (Italy (northern), 1400-1499)
+  record_url: https://openn.library.upenn.edu/Data/0023/html/lewis_e_m_023_019.html
+  image_url: https://openn.library.upenn.edu/Data/0023/lewis_e_m_023_019/data/master/7731_0000.tif
+  image_rights: LicenseRef-PDM
+  rights_url: https://creativecommons.org/publicdomain/mark/1.0/
+  source_sha256: 97a7ab5ba6b2a74e7237f1e746a6fbee1861cda4a783f9f67ce42b41dbaf7c0e
+license: null

@@ -1,0 +1,44 @@
+# descriptive: find it and understand it
+id: blue-webbed-fan-leaf
+title: Blue webbed fan leaf
+description: A fan-shaped blue leaf spreading to the left from a narrow base at the right, its six pointed hooked tips joined by pale ribbed webbing like a bat's wing, with a tall curling tendril at the top and a pink-red lobe folded behind it at the upper right. Outlined in black on a transparent ground.
+type: ornament
+categories:
+  - floral
+  - scrollwork
+subjects:
+  - leaf
+  - flourish
+colors:
+  - blue
+  - pink
+  - black
+  - white
+facing: left
+composition: single-ornament
+
+# structural: how it is organised and related
+group: 013-005
+render:
+  image: {}
+display_width:
+  - 150
+  - 500
+
+# administrative: manage, access, preserve
+status: approved
+review: done
+created: 2026-10-28
+master: master.png
+provenance:
+  method: ai-assisted-extraction
+  institution: Free Library of Philadelphia, John Frederick Lewis Collection
+  object_title: Border detail fragment
+  object_identifier: Lewis E M 13:5
+  date: (Unknown, 1400-1499)
+  record_url: https://openn.library.upenn.edu/Data/0023/html/lewis_e_m_013_005.html
+  image_url: https://openn.library.upenn.edu/Data/0023/lewis_e_m_013_005/data/master/7555_0000.tif
+  image_rights: LicenseRef-PDM
+  rights_url: https://creativecommons.org/publicdomain/mark/1.0/
+  source_sha256: 9a42b3b031829275e1ad6c43d8e46848cc6fd9bb9308690f6dc33e4af77d6ba6
+license: null

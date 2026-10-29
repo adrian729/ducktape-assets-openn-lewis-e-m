@@ -1,0 +1,58 @@
+# descriptive: find it and understand it
+id: gold-blue-and-red-foliate-panel
+title: Gold panel with blue star column and red and blue vines
+description: A rectangular panel on a burnished gold ground, cut from a border.
+  Gold bars with a blue stripe and red curled ends run along the top and bottom
+  and extend into pointed gold finials at the four corners. A vertical blue
+  column in the centre holds three squares, each filled with white radiating
+  strokes around a central dot. On either side, curling red and blue stems carry
+  three-lobed leaves in red, blue and green with white highlights and dots.
+  Opaque within the panel; transparent outside.
+type: ornament
+categories:
+  - floral
+  - scrollwork
+  - geometric
+subjects:
+  - vine
+  - leaf
+  - finial
+colors:
+  - gold
+  - blue
+  - red
+  - green
+  - white
+facing: none
+composition: single-ornament
+
+# structural: how it is organised and related
+group: 012-020
+render:
+  image: {}
+usage_notes:
+  - Opaque panel with its own gold ground; place it as a plate or a headpiece,
+    not as a cut-out.
+display_width:
+  - 400
+  - 1000
+
+# administrative: manage, access, preserve
+status: approved
+review: done
+created: 2026-10-28
+quality: The gold leaf is worn and scratched, a few paint losses show as pale
+  flecks along the right side, and the panel is slightly out of square.
+master: master.png
+provenance:
+  method: ai-assisted-extraction
+  institution: Free Library of Philadelphia, John Frederick Lewis Collection
+  object_title: Decorated border detail
+  object_identifier: Lewis E M 12:20
+  date: (Unknown, 1400-1499)
+  record_url: https://openn.library.upenn.edu/Data/0023/html/lewis_e_m_012_020.html
+  image_url: https://openn.library.upenn.edu/Data/0023/lewis_e_m_012_020/data/master/7545_0000.tif
+  image_rights: LicenseRef-PDM
+  rights_url: https://creativecommons.org/publicdomain/mark/1.0/
+  source_sha256: b9a01b81600de7cf27c59ceef40c5f5c466b946da0868d9c589b311a4e64cd47
+license: null

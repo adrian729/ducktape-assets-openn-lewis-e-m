@@ -1,0 +1,49 @@
+# descriptive: find it and understand it
+id: blue-dragon-head-with-orange-tongue
+title: Blue dragon head with orange tongue
+description: The head of a blue dragon in profile facing left, cut from the terminal of an initial. It has a pointed snout, a white-rimmed eye, a swept-back blue crest with white hatching and an open mouth with a dark red interior and white teeth, from which a long orange tongue curls out to the lower left. A short stub of neck remains at the right. Black outlines; transparent background.
+type: illustration
+categories:
+  - animals
+  - fantasy
+subjects:
+  - dragon
+  - head
+  - tongue
+colors:
+  - blue
+  - orange
+  - red
+  - white
+facing: left
+view: side
+composition: single-figure
+
+# structural: how it is organised and related
+group: 012-019
+render:
+  image: {}
+usage_notes:
+  - Head only; the neck is cut where it met the letter, so place it against a stem, a letter or the end of a border.
+display_width:
+  - 120
+  - 300
+
+# administrative: manage, access, preserve
+status: approved
+review: done
+created: 2026-10-28
+quality: Small master, 339 px wide; the neck ends in a cut edge at the right.
+master: master.png
+provenance:
+  method: ai-assisted-extraction
+  institution: Free Library of Philadelphia, John Frederick Lewis Collection
+  object_title: Inhabited initial U
+  object_identifier: Lewis E M 12:19
+  date: (Unknown, 1400-1499)
+  record_url: https://openn.library.upenn.edu/Data/0023/html/lewis_e_m_012_019.html
+  image_url: https://openn.library.upenn.edu/Data/0023/lewis_e_m_012_019/data/master/7544_0000.tif
+  image_rights: LicenseRef-PDM
+  rights_url: https://creativecommons.org/publicdomain/mark/1.0/
+  source_sha256: 2f3211ead96e5985bb1830a2260a1ca9f57f49cc776e7dd7d5578ca3af8b8767
+license: null

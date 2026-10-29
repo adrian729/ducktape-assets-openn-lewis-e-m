@@ -1,0 +1,70 @@
+# descriptive: find it and understand it
+id: two-faced-alchemical-figure-and-dragon-scene
+title: Crowned two-faced figure with dragon on rocky ground
+description: An alchemical figure with two faces under one gold crown, a bearded profile looking left and a beardless one looking right, stands barefoot on green rocky ground in a robe gold and red on the left and black on the right, a gold feathered wing ending in a spiral coil at the left and a blue wing at the right, holding a chalice from which three green serpent heads rise. A green dragon lies on the ground biting a gold rod, and two seed-pod sprigs grow beside the figure, the left one faded. Cut from the miniature; the background is transparent.
+type: illustration
+categories:
+  - fantasy
+  - humans
+  - hybrids
+  - royalty
+subjects:
+  - human
+  - face
+  - crown
+  - wings
+  - chalice
+  - serpent
+  - dragon
+  - rod
+  - sprig
+  - seed
+  - landscape
+colors:
+  - gold
+  - blue
+  - green
+  - red
+  - black
+facing: mixed
+composition: multiple-figures
+
+# structural: how it is organised and related
+group: 028-026-027
+render:
+  image: {}
+related:
+  - asset: openn-lewis-e-m/crowned-winged-figure-with-chalice
+    role: variant
+  - asset: openn-lewis-e-m/reclining-green-dragon-biting-gold-bar
+    role: variant
+  - asset: openn-lewis-e-m/dark-seed-pod-sprig
+    role: variant
+  - asset: openn-lewis-e-m/gold-seed-pod-sprig
+    role: variant
+  - asset: openn-lewis-e-m/thin-red-and-gold-fixed-miniature-frame
+    role: companion
+usage_notes:
+  - The whole picture field of the miniature without its frame; thin-red-and-gold-fixed-miniature-frame is the frame it sat in, and the figure, dragon and both sprigs are also cut out separately.
+display_width:
+  - 350
+  - 1000
+
+# administrative: manage, access, preserve
+status: approved
+review: done
+created: 2026-10-28
+quality: The left seed-pod sprig is largely lost in the original and survives only as faint fragments.
+master: master.png
+provenance:
+  method: mixed-source-extraction
+  institution: Free Library of Philadelphia, John Frederick Lewis Collection
+  object_title: Miniature from an alchemical manuscript
+  object_identifier: Lewis E M 28:26-27
+  date: (Italy (northern?), 1400-1499)
+  record_url: https://openn.library.upenn.edu/Data/0023/html/lewis_e_m_028_026-027.html
+  image_url: https://openn.library.upenn.edu/Data/0023/lewis_e_m_028_026-027/data/master/7868_0000.tif
+  image_rights: LicenseRef-PDM
+  rights_url: https://creativecommons.org/publicdomain/mark/1.0/
+  source_sha256: b87275307689fde187402827139bfcd856127bf12664822834ba834ddafe7fa5
+license: null

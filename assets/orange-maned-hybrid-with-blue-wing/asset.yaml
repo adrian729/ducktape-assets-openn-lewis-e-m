@@ -1,0 +1,50 @@
+# descriptive: find it and understand it
+id: orange-maned-hybrid-with-blue-wing
+title: Winged hybrid with orange head and bearded mask
+description: A hybrid creature facing right, with an orange-red beast head with pointed ears and open jaws on a gold-feathered neck and wing, a body curled into a large blue spiral with white hatching and a gold-dotted band, a bearded human face in orange-brown at its rump at the right, and two dark green clawed feet. Outlined in black; cut from the decorated initial, the background is transparent.
+type: illustration
+categories:
+  - hybrids
+  - fantasy
+  - animals
+subjects:
+  - creature
+  - grotesque
+  - wings
+  - face
+  - beard
+colors:
+  - orange
+  - blue
+  - gold
+  - green
+  - brown
+facing: right
+view: side
+composition: single-figure
+
+# structural: how it is organised and related
+group: 023-019
+render:
+  image: {}
+display_width:
+  - 300
+  - 800
+
+# administrative: manage, access, preserve
+status: approved
+review: done
+created: 2026-10-28
+master: master.png
+provenance:
+  method: ai-assisted-extraction
+  institution: Free Library of Philadelphia, John Frederick Lewis Collection
+  object_title: Decorated initial D
+  object_identifier: Lewis E M 23:19
+  date: (Italy (northern), 1400-1499)
+  record_url: https://openn.library.upenn.edu/Data/0023/html/lewis_e_m_023_019.html
+  image_url: https://openn.library.upenn.edu/Data/0023/lewis_e_m_023_019/data/master/7731_0000.tif
+  image_rights: LicenseRef-PDM
+  rights_url: https://creativecommons.org/publicdomain/mark/1.0/
+  source_sha256: 97a7ab5ba6b2a74e7237f1e746a6fbee1861cda4a783f9f67ce42b41dbaf7c0e
+license: null

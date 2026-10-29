@@ -1,0 +1,56 @@
+# descriptive: find it and understand it
+id: michael-and-angels-battling-winged-demons
+title: Saint Michael and angels fighting the dragon and demons
+description: The figures of a miniature cut from their ground. Saint Michael in gold armour, with a halo and green, blue and red wings, stands at the centre with his sword raised and one foot on a brown winged dragon with a gold tail. Four angels in white, pink and red robes strike down with swords around him, while a red-clad demon with a bat wing falls at the left behind a blue shield with gold stars and a grey demon with blue bat wings sprawls at the lower right. Transparent background.
+type: illustration
+categories:
+  - humans
+  - fantasy
+  - animals
+subjects:
+  - michael
+  - archangel
+  - angel
+  - demon
+  - dragon
+  - sword
+  - shield
+  - halo
+  - wings
+colors:
+  - gold
+  - red
+  - blue
+  - green
+  - white
+facing: mixed
+composition: multiple-figures
+
+# structural: how it is organised and related
+group: 015-014
+render:
+  image: {}
+usage_notes:
+  - Figures only, the painted sky and ground of the miniature are removed; place it as a complete scene and keep its proportions.
+display_width:
+  - 400
+  - 900
+
+# administrative: manage, access, preserve
+status: approved
+review: done
+created: 2026-10-28
+quality: The sword blades of the two upper angels and the wing of the upper-left angel are cut flat where they ran into the frame of the miniature, at the top and left edges.
+master: master.png
+provenance:
+  method: ai-assisted-extraction
+  institution: Free Library of Philadelphia, John Frederick Lewis Collection
+  object_title: Miniature depicting Michael the Archangel fighting the dragon with his angels
+  object_identifier: Lewis E M 15:14
+  date: (France, 1500-1525)
+  record_url: https://openn.library.upenn.edu/Data/0023/html/lewis_e_m_015_014.html
+  image_url: https://openn.library.upenn.edu/Data/0023/lewis_e_m_015_014/data/master/7600_0000.tif
+  image_rights: LicenseRef-PDM
+  rights_url: https://creativecommons.org/publicdomain/mark/1.0/
+  source_sha256: dc349fcfe99eb31780d4c2e52269108de7e392d53540d280c8ead993ed38ec05
+license: null
