@@ -3,7 +3,7 @@
 
 Decorated, inhabited and historiated initials, border fragments and miniatures from fourteen medieval cuttings of the John Frederick Lewis Collection (Lewis E M) at the Free Library of Philadelphia, digitised by OPenn; 14th to 17th century, Germany, France, Italy and Portugal; grouped by cutting.
 
-Part of [Ducktape Assets](https://github.com/adrian729/ducktape-assets). Set id `openn-lewis-e-m`, historical, 41 assets.
+Part of [Ducktape Assets](https://github.com/adrian729/ducktape-assets). Set id `openn-lewis-e-m`, historical, 41 assets, version 1.0.0.
 
 ## Licence and attribution
 
@@ -13,10 +13,10 @@ Author: adrian729. Maintainer: https://github.com/adrian729/ducktape-assets/issu
 
 ## Use one asset
 
-No version is published yet. Once it is, pin the exact version (never `@latest`); the URL scheme is:
+Pin the exact version (never `@latest`). For `openn-lewis-e-m/blue-dragon-head-with-orange-tongue`:
 
-```
-https://cdn.jsdelivr.net/npm/@ranx729/ducktape-assets-openn-lewis-e-m@<version>/webp/<asset-id>-<width>.webp
+```html
+<img src="https://cdn.jsdelivr.net/npm/@ranx729/ducktape-assets-openn-lewis-e-m@1.0.0/webp/blue-dragon-head-with-orange-tongue-64.webp" alt="" loading="lazy">
 ```
 
 Package `@ranx729/ducktape-assets-openn-lewis-e-m`; every file, width and format is listed in its `manifest.json`. Masters live in git under `assets/<id>/` and in `@ranx729/ducktape-assets-openn-lewis-e-m-masters`; never put a master on a page.
